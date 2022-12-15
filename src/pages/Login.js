@@ -12,7 +12,8 @@ const Container = styled.div`
   url ("") center;
   background-size: cover;
   display: flex;
-  align-items: center;justify-content: center;
+  align-items: center;
+  justify-content: center;
 `;
 
 const Wrapper = styled.div`
