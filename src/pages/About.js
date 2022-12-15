@@ -56,7 +56,7 @@ const About = () => {
                     <Title>Lovely to meet you</Title>
                     <Desc>I have always imagined the ideal item I would like to wear. Therefore, I've decided to bring my ideas to life and have been doing this for two years now. <br/>
                         In 2018, I created my own clothing brand to make you feel special.<br/>
-                        I use the highest quality material, so that you feel comfortable. From the first personal acquaintance with DM, you will be convinced that stylish clothes can be comfortable, the one you don't want to get out of.<br/>
+                        I use the highest quality material, so that you feel comfortable. From the first personal acquaintance with ARIA, you will be convinced that stylish clothes can be comfortable, the one you don't want to get out of.<br/>
                         Remember that your image says much more about you than you think. You can easily make a completely different impression of yourself without words.</Desc>
                 </InfoContainer>
             </Container>
